@@ -10,7 +10,7 @@ An Angular 4+ Component library for Generating QR (Quick Response ) Codes .
 To use ngx-qrcode in your project, install it via npm:
 
 ```bash
-$ npm install @techiediaries/ngx-qrcode --save
+$ npm install @cmgustavo/ngx-qrcode --save
 ```
 
 ## Usage

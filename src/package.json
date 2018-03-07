@@ -1,10 +1,10 @@
 {
-  "name": "@cmgustavo/ngx-qrcode",
+  "name": "@gabrielbazan7/ngx-qrcode",
   "version": "1.0.1",
   "description": "An Angular 4+ component for generating QRCodes ",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cmgustavo/ngx-qrcode"
+    "url": "https://github.com/gabrielbazan7/ngx-qrcode"
   },
   "author": {
     "name": "Ahmed Bouchefra",
@@ -16,7 +16,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cmgustavo/ngx-qrcode/issues"
+    "url": "https://github.com/gabrielbazan7/ngx-qrcode/issues"
   },
   "module": "ngx-qrcode.js",
   "typings": "ngx-qrcode.d.ts",

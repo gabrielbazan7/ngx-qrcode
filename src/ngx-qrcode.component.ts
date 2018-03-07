@@ -6,7 +6,7 @@ let QRCode = require('qrcode');
 
 @Component({
   selector: 'ngx-qrcode',
-  template: `<div #qrcElement [class]="cssClass"></div>`,
+  template: `<div [ngStyle]="{'background-color': red}" #qrcElement [class]="cssClass"></div>`,
   styles: []
 })
 export class NgxQRCodeComponent implements OnChanges {
